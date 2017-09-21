@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28d8d7cb9a30e5a40bbad6e723472d23, type: 3}
+  m_Name: New Spawn Data List
+  m_EditorClassIdentifier: 
+  spawnDatas:
+  - level: 3
+    enemy: {fileID: 0}
+    timeUntilSpawn: 4
+  - level: 2
+    enemy: {fileID: 0}
+    timeUntilSpawn: 7
+  - level: 1
+    enemy: {fileID: 0}
+    timeUntilSpawn: 6
+  - level: 4
+    enemy: {fileID: 0}
+    timeUntilSpawn: 5
